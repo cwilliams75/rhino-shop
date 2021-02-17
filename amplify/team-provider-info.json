@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rhinoshop-dev-113107-authRole",
+      "UnauthRoleArn": "arn:aws:iam::510490482563:role/amplify-rhinoshop-dev-113107-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::510490482563:role/amplify-rhinoshop-dev-113107-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-rhinoshop-dev-113107-deployment",
+      "UnauthRoleName": "amplify-rhinoshop-dev-113107-unauthRole",
+      "StackName": "amplify-rhinoshop-dev-113107",
+      "StackId": "arn:aws:cloudformation:us-east-1:510490482563:stack/amplify-rhinoshop-dev-113107/8ada5400-713d-11eb-8fb0-12aa315776d7",
+      "AmplifyAppId": "d2qqetdzk4nxfi"
+    },
+    "categories": {
+      "auth": {
+        "rhinoshop47327101": {}
+      }
+    }
+  }
+}
